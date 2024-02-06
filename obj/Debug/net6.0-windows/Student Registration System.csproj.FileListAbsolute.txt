@@ -1,0 +1,153 @@
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student_Management_System.Presentation_Layer.Login.resources
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student_Management_System.Presentation_Layer.Register.resources
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student_Management_System.Properties.Resources.resources
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Registration System.csproj.GenerateResource.cache
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Registration System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Registration System.AssemblyInfoInputs.cache
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Registration System.AssemblyInfo.cs
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Registration System.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student_Management_System.Presentation_Layer.Main_Form.resources
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Student Registration System.exe
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Student Registration System.deps.json
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Student Registration System.runtimeconfig.json
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Student Registration System.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Student Registration System.pdb
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Registration System.dll
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\refint\Student Registration System.dll
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Registration System.pdb
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Registration System.genruntimeconfig.cache
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\ref\Student Registration System.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Registration System.csproj.AssemblyReference.cache
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Registration System.csproj.CopyComplete
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Student Registration System.exe
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Student Registration System.deps.json
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Student Registration System.runtimeconfig.json
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Student Registration System.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Student Registration System.pdb
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.csproj.AssemblyReference.cache
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student_Management_System.Presentation_Layer.Login.resources
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student_Management_System.Presentation_Layer.Main_Form.resources
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student_Management_System.Presentation_Layer.Register.resources
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student_Management_System.Properties.Resources.resources
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.csproj.GenerateResource.cache
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.AssemblyInfoInputs.cache
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.AssemblyInfo.cs
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.csproj.CoreCompileInputs.cache
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.csproj.CopyComplete
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\refint\Student Registration System.dll
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.pdb
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.genruntimeconfig.cache
+C:\Users\miles\Videos\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\ref\Student Registration System.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Student Registration System.exe
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Student Registration System.deps.json
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Student Registration System.runtimeconfig.json
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Student Registration System.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Student Registration System.pdb
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.csproj.AssemblyReference.cache
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student_Management_System.Presentation_Layer.Login.resources
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student_Management_System.Presentation_Layer.Main_Form.resources
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student_Management_System.Presentation_Layer.Register.resources
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student_Management_System.Properties.Resources.resources
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.csproj.GenerateResource.cache
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.AssemblyInfoInputs.cache
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.AssemblyInfo.cs
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.csproj.CoreCompileInputs.cache
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.csproj.CopyComplete
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\refint\Student Registration System.dll
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.pdb
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\Student Registration System.genruntimeconfig.cache
+C:\Users\miles\Desktop\Software Engineering\Moyo_Milslim_SEN371_Practical\obj\Debug\net6.0-windows\ref\Student Registration System.dll
